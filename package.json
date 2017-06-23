@@ -1,0 +1,16 @@
+{
+  "name": "image-uploader",
+  "version": "1.0.0",
+  "description": "Simple tool allowing to upload a base64 image",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "image",
+    "upload",
+    "node.js"
+  ],
+  "author": "Michaël Villeneuve",
+  "license": "MIT"
+}
